@@ -85,7 +85,7 @@ https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MinShiDiYi.tw" tvg-name="民視第一" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="General",民視第一 (720p)
 http://seb.sason.top/ptv/ftv.php?id=dy
 
-TLC旅游生活,http://hp1.ottclub.info:1935/live/c670.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+#EXTINF:-1 ,TLC旅游生活 http://hp1.ottclub.info:1935/live/c670.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 台视HD,http://hp1.ottclub.info:1935/live/c671.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 WIN综合HD,http://hp2.ottclub.info:1935/live/c673.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 中视HD,http://hp1.ottclub.info:1935/live/c674.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
