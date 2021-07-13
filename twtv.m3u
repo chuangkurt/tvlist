@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
 #EXTINF:-1 ,中视
 http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 ,中视HD
